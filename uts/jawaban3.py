@@ -1,0 +1,5 @@
+print("=============")
+print("program quiz")
+print("=============")
+input("masukan nama :")
+input("masukan nim :")
